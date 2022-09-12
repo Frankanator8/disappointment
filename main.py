@@ -33,7 +33,6 @@ import snipe
 import asyncio
 import string
 import datetime
-import humanize
 import vote
 
 intents = discord.Intents.default()
